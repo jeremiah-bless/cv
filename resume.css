@@ -1,0 +1,50 @@
+.bdrblk{border: 1px solid black;
+    margin:20px;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index:1000;
+}
+.mynavstyl{
+    background-color: wheat;
+    color: black;
+}
+.navpstn {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 134px;
+    width: 100%;
+    z-index:1000;
+}
+.rgtaln {text-align: right;}
+.summary {
+background-color: aqua;
+border: 5px solid skyblue;
+margin:20px;
+pading :10px;
+}
+.medimg{
+    width: 80px;
+    border:1px solid blue;
+    padding: 5px;
+    background-color: white;
+    margin: 5px;
+}
+.pd10{
+    padding: 10px;
+}
+.bggr{
+    background-color: grey;
+}
+.bgwh{
+    background-color: white;
+}
+.mar20{
+    margin: 20px
+}
+.page-navigation {
+    margin-top: 186px;
+}
